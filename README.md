@@ -11,7 +11,7 @@ A modern and stylish digital clock web application that displays the current tim
 
 ## Preview
 
-![Digital Clock Preview](./path-to-screenshot.png)
+![Digital Clock Preview](./src/assets/digitalclock.jpg)
 
 ## Technologies Used
 
