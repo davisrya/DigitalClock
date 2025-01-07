@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer base{
+  body {
+    @apply bg-[url('./assets/island.jpg')] bg-center bg-no-repeat bg-cover bg-fixed m-40  flex justify-center h-96 items-center ;
+  }
+}
+
+@layer utilities {
+  .clock {
+    @apply text-white text-8xl font-bold font-mono text-center shadow-md;
+  }
+
+  .clock-container {
+    @apply backdrop-blur-sm w-screen p-10;
+  }
+}
