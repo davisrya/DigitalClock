@@ -33,7 +33,7 @@ Make sure you have the following installed on your system:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/digital-clock.git
+  git clone https://github.com/davisrya/DigitalClock.git
    cd digital-clock
 
 2. Install dependencies:
