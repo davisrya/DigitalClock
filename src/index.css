@@ -2,10 +2,9 @@
 @tailwind components;
 @tailwind utilities;
 
-
-@layer base{
+@layer base {
   body {
-    @apply bg-[url('./assets/island.jpg')] bg-center bg-no-repeat bg-cover bg-fixed m-40  flex justify-center h-96 items-center ;
+    @apply bg-[url('./assets/island.jpg')] bg-center bg-no-repeat bg-cover bg-fixed m-40  flex justify-center h-96 items-center;
   }
 }
 
